@@ -1,6 +1,6 @@
 # permeability-shale-sandstone
 Supporting datafile for gas transport paper
-The .csv field DF1 provides full suporting data and experimental details for paper:
+The .csv field DF1 provides full supporting data and experimental details for paper:
 
 Matrix gas flow through ‘impermeable’
 rocks - shales and tight sandstone.  
